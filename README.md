@@ -1,7 +1,5 @@
 ### Hi there 👋
 - 🔭 I’m currently working as a Software Engineer
-- 🌱 I’m currently learning Docker
-- 👯 I’m looking to collaborate opensource
 - 💬 Ask me about php, laravel, express, react
 - 📫 How to reach me: samerseu@gmail.com
  
